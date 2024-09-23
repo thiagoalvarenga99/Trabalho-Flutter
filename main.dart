@@ -33,7 +33,7 @@ class _MeuAppState extends State<MeuApp> {
       ),
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('Mensagem( Nome do Grupo )'),
+          title: const Text('Lista de Afazeres - Grupo Thiago Alvarenga e Rodolfo Ricardo'),
         ),
         body: Column(
           children: [
